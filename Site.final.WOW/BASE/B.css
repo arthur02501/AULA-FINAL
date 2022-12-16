@@ -1,0 +1,20 @@
+.txt{
+    font-size: 15px;
+    font-family: Arial;
+    font-style: normal;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 3px;
+    margin-top: 13%;
+    margin-left: 150px;
+    margin-right: 150px;
+    }
+    
+h2{
+    font-family: Arial;
+    text-align: center;
+}
+body{
+    padding-bottom: 13%;
+}
